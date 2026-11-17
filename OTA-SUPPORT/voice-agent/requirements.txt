@@ -1,0 +1,67 @@
+# AI & Agents
+langchain
+langchain-google-genai
+langchain-pinecone
+langchain-community
+langchain-text-splitters
+google-generativeai
+
+# Vector Store
+pinecone-client
+
+# Voice
+faster-whisper
+sounddevice
+numpy
+gTTS
+pygame
+
+# Database
+sqlalchemy
+psycopg2-binary
+
+# API & Backend
+fastapi
+uvicorn
+python-dotenv
+
+# Alerts (smtplib is built into Python, no install needed)
+requests
+
+
+langchain-huggingface
+
+
+
+# ── LLM & Embeddings ──────────────────────────────────────
+groq>=0.9.0
+langchain>=0.2.0
+langchain-groq>=0.1.6
+langchain-google-genai>=1.0.6
+langchain-pinecone>=0.1.3
+langchain-community>=0.2.0
+langchain-text-splitters>=0.2.0
+langchain-core>=0.2.0
+
+# ── Vector DB ─────────────────────────────────────────────
+pinecone-client>=3.2.2
+
+# ── SQL Database ──────────────────────────────────────────
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.9          # PostgreSQL driver
+
+# ── API ───────────────────────────────────────────────────
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.7.0
+
+# ── STT / TTS ─────────────────────────────────────────────
+gtts>=2.5.1                     # Text-to-Speech (free, no key)
+playsound==1.2.2                # Audio playback
+# pyaudio>=0.2.14               # Uncomment for live microphone input
+
+# ── Alerts ────────────────────────────────────────────────
+requests>=2.32.0
+
+# ── Utilities ─────────────────────────────────────────────
+python-dotenv>=1.0.1

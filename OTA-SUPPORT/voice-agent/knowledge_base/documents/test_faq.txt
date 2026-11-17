@@ -1,0 +1,15 @@
+Q: My internet connection keeps dropping.
+A: First, restart your router by unplugging it for 30 seconds. If the problem persists, check if the cables are properly connected. Contact support if the issue continues after restarting.
+
+Q: How do I reset my password?
+A: Go to the login page and click "Forgot Password". Enter your email address and you will receive a reset link within 5 minutes. Check your spam folder if you don't see it.
+
+Q: My device is overheating.
+A: Make sure the device is placed on a flat hard surface with proper ventilation. Clean the air vents with compressed air. Avoid using the device while charging in hot environments.
+
+Q: I was charged twice for my subscription.
+A: This can happen during payment processing delays. Please provide your account email and transaction date to our billing team. Refunds are processed within 3-5 business days.
+
+Q: How do I upgrade my plan?
+A: Log into your account dashboard and go to Settings > Subscription. Click "Upgrade Plan" and choose your preferred tier. The change takes effect immediately and you are billed on a pro-rated basis.
+
