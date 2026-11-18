@@ -1,4 +1,4 @@
-# AntiGravity Voice Agent
+# OTA SUPPORT "Voice Agent"
 
 AI-powered telecom customer support agent using **Groq (LLM + Whisper)**, **Gemini embeddings**, **Pinecone**, and **PostgreSQL**.
 
