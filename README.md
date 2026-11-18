@@ -197,6 +197,12 @@ curl -X POST http://localhost:8000/call \
 
 Built with ❤️ for the **CGI-ENSA Hackathon 2026**
 
+| Name | GitHub |
+|------|--------|
+| **Tarchi Oussama** | — |
+| **Ali Zouine** | [@zouinealifst-create](https://github.com/zouinealifst-create) |
+| **Taha Rajel** | — |
+
 ---
 
 <div align="center">
