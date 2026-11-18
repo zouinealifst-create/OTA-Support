@@ -199,9 +199,9 @@ Built with ❤️ for the **CGI-ENSA Hackathon 2026**
 
 | Name | GitHub |
 |------|--------|
-| **Tarchi Oussama** |https://github.com/tarchi983|
+| **Tarchi Oussama** |[@tarchi983](https://github.com/tarchi983)|
 | **Ali Zouine** | [@zouinealifst-create](https://github.com/zouinealifst-create) |
-| **Taha Rajel** | https://github.com/Taha-Rajel |
+| **Taha Rajel** | [@Taha-Rajel](https://github.com/Taha-Rajel)|
 
 ---
 
